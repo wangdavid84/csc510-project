@@ -1,4 +1,3 @@
-from flask import Flask, request
 import requests
 
 # To check list of employees

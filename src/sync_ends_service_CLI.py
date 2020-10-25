@@ -11,7 +11,6 @@ from dotenv import load_dotenv
 # Third party imports
 from jsondiff import diff
 from slack import WebClient
-from slackeventsapi import SlackEventAdapter
 
 ssl._create_default_https_context = ssl._create_unverified_context
 load_dotenv()
