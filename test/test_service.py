@@ -26,7 +26,7 @@ class Test(unittest.TestCase):
             self.assertIsNotNone(data.read())
 
     def test_selectedcollection(self):
-        with patch(__name__ + '.regex') as mock_regex:
+        with patch(__name__ + '.regex'):
             with patch(__name__ + '.get_selected_collection') as mock_request:
                 result = mock_request.return_value
                 result.method.return_value = [["'asdf'", "'qwer'"], [], [], []]
