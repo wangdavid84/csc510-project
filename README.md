@@ -6,7 +6,7 @@ Software Engineering Project for CSC 510
 
 [![Support Slack](https://img.shields.io/badge/support-slack-red.svg)](https://join.slack.com/t/seng20/shared_invite/zt-hmikwiec-KDQVndRqN5DvGEFql0ehIw)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-![GitHub contributors](https://img.shields.io/github/contributors/varsha5595/csc510-project)
+![GitHub contributors](https://img.shields.io/github/contributors/yrahul3910/csc510-project)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4042286.svg)](https://doi.org/10.5281/zenodo.4042286)
 [![Build Status](https://travis-ci.com/wangdavid84/csc510-project.svg?branch=master)](https://travis-ci.com/wangdavid84/csc510-project)
